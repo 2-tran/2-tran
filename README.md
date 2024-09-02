@@ -11,7 +11,7 @@
 ### 📫 How to reach me
 - Email: haitu.dev@gmail.com
 - LinkedIn: [Hai Tran](https://www.linkedin.com/in/haitran-dev/)
-- Information: [2tran.info](https://2tran.info/)
+- Website: [2tran.info](https://2tran.info/)
 
 ### 🔨 Languages and Tools:
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
